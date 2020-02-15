@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581771058 source:d:\apex\heart\main.cpp
+	<iostream>
+	<graphics.h>
+
